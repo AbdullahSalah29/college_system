@@ -1,0 +1,1 @@
+OOP project using the Java language, which is the college administration system, which is a system that stores the information of people working in the college, including students, employees, assistants, and doctors, and it is easy for Administrators to find out all the details related to workers in the college, and this project worked with a team.
